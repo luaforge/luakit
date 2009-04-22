@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://phausler@luakit.googlecode.com/svn/trunk/LuaKit/Classes
+https://phausler@luakit.googlecode.com/svn
+
+
+
+2009-04-06T18:39:49.001730Z
+2
+phausler
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8fd6c89a-22d9-11de-9d52-39b120432c5d
+
+LuaState.h
+file
+
+
+
+
+2009-04-21T00:20:19.000000Z
+ec6abded2b4ce8c2b44d3c63d5ff0885
+2009-04-06T18:39:49.001730Z
+2
+phausler
+
+LuaState.m
+file
+
+
+
+
+2009-04-21T00:20:19.000000Z
+2eeb015ff1f24980b4673b26d4078aca
+2009-04-06T18:39:49.001730Z
+2
+phausler
+

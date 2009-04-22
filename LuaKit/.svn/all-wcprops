@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/LuaKit
+END
+LuaKit_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/LuaKit/LuaKit_Prefix.pch
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/LuaKit/version.plist
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/LuaKit/LICENSE.txt
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/LuaKit/Info.plist
+END
+COPYRIGHT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/LuaKit/COPYRIGHT.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/LuaKit/README.txt
+END
